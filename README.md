@@ -1,7 +1,7 @@
 <img src="/icons/icon.svg" alt="icon" width="64" />
 
 # YouTube Subscription Redirector for Firefox
-A firefox add-on that redirects the YouTube homepage `youtube.com` to `youtube.com/feed/subscriptions`.
+A Firefox add-on that redirects the YouTube homepage `youtube.com` to `youtube.com/feed/subscriptions`.
 
 ## Install
 Available from either [GitHub](https://github.com/tomlally/yt-redirect-ff/releases) or [Mozilla](https://addons.mozilla.org/en-US/firefox/addon/yt-redirect/)
