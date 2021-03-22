@@ -4,7 +4,7 @@
 A Firefox add-on that redirects the YouTube homepage `youtube.com` to `youtube.com/feed/subscriptions`.
 
 ## Install
-Available from either [GitHub](https://github.com/tomlally/yt-redirect-ff/releases) or [Mozilla](https://addons.mozilla.org/en-US/firefox/addon/yt-redirect/)
+Available from either [GitHub](https://github.com/tomlally/yt-redirect-ff/releases) or [Mozilla](https://addons.mozilla.org/addon/yt-redirect/)
 
 ## License
 This add-on is released under the MIT license. See [LICENSE](/LICENSE).
